@@ -1,4 +1,12 @@
 
-$("h1").text('Kyle D');
+// // $('h1').click(function(){
+// //     $('h1').css('color','purple');
+// // })
 
-$("button").text("Jersey");
+// // $('button').click(function(){
+// //     $('h1').css('color','purple');
+// // })
+
+// $('input').keypress(function(event){
+//     console.log(event.key);
+// });
